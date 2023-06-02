@@ -47,8 +47,8 @@ volatile int radiationCounter = 0;
 
 /* -------- Wi-Fi nastavenia -------- */
 // Wi-Fi SSID a heslo pre pripojenie k sieti.
-const char* ssid = "Pixel_3012";
-const char* password = "Kecaldes1999";
+const char* ssid = "SUR";
+const char* password = "hascikrules";
 
 /* -------- Práhové hodnoty a rastové limity -------- */
 const int NOTIFICATION_THRESHOLD_TEMP = 30; // Teplotný prah pre notifikácie
